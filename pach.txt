@@ -1,0 +1,17 @@
+4c4
+< Jun 09 	Carl Nielsen is born in Sortelung, Denmark, 1865
+---
+> Jun 09 	Carl @ Nielsen is born in Sortelung, Denmark, 1865
+8c8
+< Jun 10 	First Apple II shipped, 1977
+---
+> Jun 10 	First Apple I.I shipped, 1977
+10,11c10
+< Jun 10 	Denver police tear gas Jethro Tull and 2000 fans at Red Rocks, 1971
+< Jun 10 	Camoes Day in Portugal
+---
+> Jun 10 	Denver police tear gas Jethro Tull and 2000 fans at Red 
+18c17
+< Jun 10 	Margit, Gitta, Gréta
+---
+> 
